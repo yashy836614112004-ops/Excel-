@@ -1,0 +1,4 @@
+name: yash soanwane
+phno: 8849233688
+qualification: BCA graduate
+course: Data analyst
